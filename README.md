@@ -1,2 +1,2 @@
-# Stock-Market-Data-Analysis
+# VBA-challenge
 VBA scripting to analyse stock market data
