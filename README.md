@@ -16,7 +16,7 @@
 
 ## Instructions
 
-Create a script that loops through all the stocks for one year and outputs the following information:
+I created a script that loops through all the stocks for one year and outputs the following information:
 
   * The ticker symbol.
 
@@ -26,18 +26,17 @@ Create a script that loops through all the stocks for one year and outputs the f
 
   * The total stock volume of the stock.
 
-
-## Bonus
-
-Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". 
-
-Make the appropriate adjustments to my VBA script to allow it to run on every worksheet (that is, every year) just by running the VBA script once.
+ 
 
 ## Other Considerations
 
-* I Used the sheet `alphabetical_testing.xlsx` while developing your code. This data set is smaller and allowed me to test faster. My code should run on this file in less than 3 to 5 minutes.
+ * I addad functionality to my script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". 
 
-* I verified that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with one click of a button.
+ * I also Made the appropriate adjustments to my VBA script to allow it to run on every worksheet (that is, every year) just by running the VBA script once.
+
+ * I Used the sheet `alphabetical_testing.xlsx` while developing your code. This data set is smaller and allowed me to test faster. My code should run on this file  in less than 3 to 5 minutes.
+
+ * I verified that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with one click of a button.
 
 
 
